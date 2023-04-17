@@ -5,7 +5,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | * Alura-play **
 | :label: Tecnologias | HTML e Css (tecnologias utilizadas)
-| :rocket: URL         |[)
+| :rocket: URL         |[https://analuiza2102.github.io/Alura-Play/)
 | :fire: Desafio     |[https://cursos.alura.com.br/codechella-semana-1-monicahillman-1673444925008-p514254)
 
 
